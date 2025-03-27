@@ -1,0 +1,7 @@
+[package]
+name = "crabtime1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crabtime = "1.1.1"
